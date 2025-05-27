@@ -1,0 +1,1 @@
+-pthread -std=c++11 -Wno-deprecated-declarations -m64 -I/opt/root5/include -DOS_LINUX -Dextname -I/home/petukhov/midas/midas/include

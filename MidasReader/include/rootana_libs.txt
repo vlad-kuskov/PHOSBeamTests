@@ -1,0 +1,1 @@
+-lz -L/opt/root5/lib -L/opt/root5/lib -lGui -lCore -lCint -lRIO -lNet -lHist -lGraf -lGraf3d -lGpad -lTree -lRint -lPostscript -lMatrix -lPhysics -lMathCore -lThread -pthread -lm -ldl -rdynamic -lThread -lXMLParser -lXMLIO -lRHTTP -lXMLParser -lXMLIO -lRHTTP /home/petukhov/midas/midas/linux/lib/libmidas.a -lutil -lrt
